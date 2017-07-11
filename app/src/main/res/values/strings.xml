@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoundServiceDemos</string>
+    <string name="get_time">Get Time</string>
+    <string name="what_time_is_it">What time is it?</string>
+</resources>
